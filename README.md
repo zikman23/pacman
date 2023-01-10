@@ -17,3 +17,5 @@ This exercise uses HTML and Javascript.
 
 ## License information
 This open source project is licensed under the [MIT License](/LICENSE).
+
+<sup>PAC-MAN™ & ©Bandai Namco Entertainment Inc.</sup>
